@@ -1,0 +1,2 @@
+include ':app', ':mycircularprogressview'
+rootProject.name='MyFirstImpl'
